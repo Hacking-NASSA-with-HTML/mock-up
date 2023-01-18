@@ -32,6 +32,16 @@ body {
     width: 50vw;
 }
 
+.voteButtonWrapper {
+    width: 100vw;
+    display: flex;
+    justify-content: end;
+}
+
+#voteButton {
+    margin: 50px 30vw 0 0;
+}
+
 .buttonWrapperDiv {
     display: flex;
     justify-content: center;

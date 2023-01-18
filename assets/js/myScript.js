@@ -20,6 +20,9 @@ function mainPageContent() {
                     </div>
                 </fieldset>
             </div>
+            <div class="voteButtonWrapper">
+                <button id="voteButton">Vote</button>
+            </div>
         </div>
         <div class="buttonWrapperDiv">
             <button id="button">Click To See Total Results</button>
